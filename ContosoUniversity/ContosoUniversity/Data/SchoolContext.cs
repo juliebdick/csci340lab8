@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using ContosoUniversity.Models;
 
 namespace ContosoUniversity.Data
@@ -10,7 +10,7 @@ namespace ContosoUniversity.Data
         {
         }
 
-        public DbSet<Student> Students { get; set; }
+        public DbSet<Students> Students { get; set; }
         public DbSet<Enrollment> Enrollments { get; set; }
         public DbSet<Course> Courses { get; set; }
 
@@ -18,7 +18,7 @@ namespace ContosoUniversity.Data
         {
             modelBuilder.Entity<Course>().ToTable("Course");
             modelBuilder.Entity<Enrollment>().ToTable("Enrollment");
-            modelBuilder.Entity<Student>().ToTable("Student");
+            modelBuilder.Entity<Students>().ToTable("Students");
         }
     }
 }

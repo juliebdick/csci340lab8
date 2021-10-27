@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -25,7 +25,7 @@ namespace ContosoUniversity.Pages.Students
         }
 
         [BindProperty]
-        public Student Student { get; set; }
+        public Students Students { get; set; }
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
@@ -35,7 +35,7 @@ namespace ContosoUniversity.Pages.Students
                 return Page();
             }
 
-            _context.Student.Add(Student);
+            _context.Students.Add(Students);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -20,7 +20,7 @@ namespace ContosoUniversity.Pages.Students
         }
 
         [BindProperty]
-        public Student Student { get; set; }
+        public Students Students { get; set; }
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
@@ -29,9 +29,9 @@ namespace ContosoUniversity.Pages.Students
                 return NotFound();
             }
 
-            Student = await _context.Student.FirstOrDefaultAsync(m => m.ID == id);
+            Students = await _context.Students.FirstOrDefaultAsync(m => m.ID == id);
 
-            if (Student == null)
+            if (Students == null)
             {
                 return NotFound();
             }
@@ -45,11 +45,11 @@ namespace ContosoUniversity.Pages.Students
                 return NotFound();
             }
 
-            Student = await _context.Student.FindAsync(id);
+            Students = await _context.Students.FindAsync(id);
 
-            if (Student != null)
+            if (Students != null)
             {
-                _context.Student.Remove(Student);
+                _context.Students.Remove(Students);
                 await _context.SaveChangesAsync();
             }
 

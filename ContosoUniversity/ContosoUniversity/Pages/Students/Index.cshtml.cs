@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -19,11 +19,11 @@ namespace ContosoUniversity.Pages.Students
             _context = context;
         }
 
-        public IList<Student> Student { get;set; }
+        public IList<Students> Students { get;set; }
 
         public async Task OnGetAsync()
         {
-            Student = await _context.Student.ToListAsync();
+            Students = await _context.Students.ToListAsync();
         }
     }
 }

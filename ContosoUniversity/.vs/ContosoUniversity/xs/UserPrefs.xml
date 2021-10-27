@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{26FB15CA-EC15-4417-90D8-9A5AD8B4AE89}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Pages/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="ContosoUniversity/Data/SchoolContext.cs" Line="24" Column="2" />
-      <File FileName="ContosoUniversity/Pages/Students/Create.cshtml" Line="1" Column="1" />
+      <File FileName="ContosoUniversity/Pages/Students/Create.cshtml" Line="38" Column="6" />
       <File FileName="ContosoUniversity/Pages/Students/Delete.cshtml" Line="1" Column="1" />
       <File FileName="ContosoUniversity/Pages/Students/Details.cshtml" Line="1" Column="1" />
       <File FileName="ContosoUniversity/Pages/Students/Edit.cshtml" Line="1" Column="1" />
       <File FileName="ContosoUniversity/Pages/Students/Index.cshtml" Line="1" Column="1" />
-      <File FileName="ContosoUniversity/Program.cs" Line="16" Column="1" />
+      <File FileName="ContosoUniversity/Program.cs" />
+      <File FileName="ContosoUniversity/Pages/Shared/_Layout.cshtml" Line="14" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,10 +18,14 @@
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Students" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+                <Node name="Students" expanded="True">
+                  <Node name="Index.cshtml" expanded="True" />
+                </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

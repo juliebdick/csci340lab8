@@ -3,9 +3,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Models/Course.cs">
     <Files>
       <File FileName="ContosoUniversity/Pages/Shared/_Layout.cshtml" Line="59" Column="8" />
-      <File FileName="ContosoUniversity/Pages/Index.cshtml" Line="43" Column="7" />
-      <File FileName="ContosoUniversity/Models/Student.cs" Line="15" Column="2" />
-      <File FileName="ContosoUniversity/Models/Enrollment.cs" Line="21" Column="2" />
+      <File FileName="ContosoUniversity/Pages/Index.cshtml" />
+      <File FileName="ContosoUniversity/Models/Student.cs" />
+      <File FileName="ContosoUniversity/Models/Enrollment.cs" />
       <File FileName="ContosoUniversity/Models/Course.cs" Line="15" Column="2" />
     </Files>
     <Pads>

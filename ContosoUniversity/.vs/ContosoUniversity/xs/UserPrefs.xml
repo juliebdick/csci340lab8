@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{26FB15CA-EC15-4417-90D8-9A5AD8B4AE89}|Default">
-  <MonoDevelop.Ide.ItemProperties.ContosoUniversity FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Pages/Index.cshtml">
+    <Files>
+      <File FileName="ContosoUniversity/Pages/Shared/_Layout.cshtml" Line="59" Column="8" />
+      <File FileName="ContosoUniversity/Pages/Index.cshtml" Line="43" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoUniversity" expanded="True">
+            <Node name="ContosoUniversity" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

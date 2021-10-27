@@ -8,7 +8,6 @@
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/bin/Debug/net5.0/ContosoUniversity.pdb
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/bin/Debug/net5.0/ContosoUniversity.Views.dll
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/bin/Debug/net5.0/ContosoUniversity.Views.pdb
-/Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.csproj.AssemblyReference.cache
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.AssemblyInfoInputs.cache
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.AssemblyInfo.cs
@@ -37,3 +36,4 @@
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.pdb
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.genruntimeconfig.cache
 /Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.csproj.CopyComplete
+/Users/juliebdick/OneDrive - Hendrix College/Databases and Web Systems/Lab 8/csci340lab8/ContosoUniversity/ContosoUniversity/obj/Debug/net5.0/ContosoUniversity.csproj.AssemblyReference.cache

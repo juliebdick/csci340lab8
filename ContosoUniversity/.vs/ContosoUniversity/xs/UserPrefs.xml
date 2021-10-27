@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{26FB15CA-EC15-4417-90D8-9A5AD8B4AE89}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Models/Course.cs">
     <Files>
       <File FileName="ContosoUniversity/Pages/Shared/_Layout.cshtml" Line="59" Column="8" />
       <File FileName="ContosoUniversity/Pages/Index.cshtml" Line="43" Column="7" />
+      <File FileName="ContosoUniversity/Models/Student.cs" Line="15" Column="2" />
+      <File FileName="ContosoUniversity/Models/Enrollment.cs" Line="21" Column="2" />
+      <File FileName="ContosoUniversity/Models/Course.cs" Line="15" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ContosoUniversity" expanded="True">
             <Node name="ContosoUniversity" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True" />
-                <Node name="Index.cshtml" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Course.cs" selected="True" />
               </Node>
+              <Node name="Pages" expanded="True" />
             </Node>
           </Node>
         </State>
